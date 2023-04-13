@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.button_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.logout_button {
+}

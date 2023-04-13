@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.form_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.form_heading {
+  font-size: 28px;
+  text-align: center;
+}
+
+.loginForm_button {
+}

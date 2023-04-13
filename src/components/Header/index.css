@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.nav_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.ul_container {
+  display: flex;
+}
+
+.link_item {
+  margin-right: 10px;
+}
+
+.li_item {
+  list-style: none;
+}
